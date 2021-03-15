@@ -1,0 +1,12 @@
+// Breakpoints
+$device-mobile: 480px;
+$device-tablet: 768px;
+$device-notebooks:1024;
+$device-desktop: 1200;
+$device-big-desktop: 1201;
+
+// Margins and paddings sizes
+$spaceamounts: (5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 75, 100); // Adjust this to include the pixel amounts you need.
+$sides: (top, bottom, left, right, all); // Leave this variable alone
+
+// Color palette

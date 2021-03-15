@@ -1,0 +1,24 @@
+@mixin responsive($device) {
+	@if $device == mobile {
+		@media screen and (min-width: $device-mobile) {
+			@content;
+		}
+	} @else if $device == tablet {
+		@media screen and (min-width: $device-tablet) {
+			@content;
+		}
+	} @else if $device == notebook {
+		@media screen and (min-width: $device-notebooks) {
+			@content;
+		}
+	} @else if $device == desktop {
+		@media screen and (min-width: $device-desktop) {
+			@content;
+		}
+	} @else if $device == big-desktop {
+		@media screen and (min-width: $device-desktop) {
+			@content;
+		}
+	}
+}
+

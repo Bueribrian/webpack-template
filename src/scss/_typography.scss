@@ -1,0 +1,16 @@
+// Font-faces
+@font-face {
+    font-family: 'Movo';
+    src: url('../fonts/Movo-Regular.woff2') format('woff2'),
+        url('../fonts/Movo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+//
+
+.Movo-title{
+    font-family: "Movo", sans-serif;
+    font-size: 3em;
+    color: #fff;
+}
