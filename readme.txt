@@ -1,6 +1,6 @@
-# Template para Webpack con soporte ES6, (CSS|SCSS|SASS) y Typescript. 
+# Template para Webpack con soporte ES6, (CSS|SCSS|SASS). 
 Este es un template simple creado para SPA (Simple page application) o MPA (Multiple Page application).
-Es compatible con javascript moderno, typescript. Soporta tambien SCSS y SASS y cuenta con soporte para multiples archivos `.html` con solo editar una simple variable del `webpack.config.js`.
+Es compatible con javascript moderno. Soporta tambien SCSS y SASS y cuenta con soporte para multiples archivos `.html` con solo editar una simple variable del `webpack.config.js`.
  
 ## Comandos escenciales
 ```
