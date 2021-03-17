@@ -2,7 +2,7 @@
 Este es un template simple creado para SPA (Simple page application) o MPA (Multiple Page application).
 Es compatible con javascript moderno. Soporta tambien SCSS y SASS y cuenta con soporte para multiples archivos `.html` con solo editar una simple variable del `webpack.config.js`.
  
-## Comandos escenciales
+## Comandos esenciales
 ```
 npm run build:prod 
 npm run build:dev
